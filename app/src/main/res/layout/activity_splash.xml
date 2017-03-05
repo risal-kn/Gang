@@ -7,4 +7,14 @@
     android:background="@drawable/splash"
     tools:context="com.kn.risal.gang.SplashActivity">
 
+    <TextView
+        android:text="G  A  N  G"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="112dp"
+        android:textSize="50dp"
+        android:textColor="#ffffff"
+        android:id="@+id/textView" />
 </RelativeLayout>
